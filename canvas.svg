@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200"  onload="OnLoadEvent(evt)">
+<g id="Canvas"></g>
+<script type="text/ecmascript">
+<![CDATA[
+    function OnLoadEvent(evt)
+    { 
+        window.parent.svgLoadFlag = true;
+    }
+]]>
+</script>
+</svg>
